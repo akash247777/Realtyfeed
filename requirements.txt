@@ -1,4 +1,5 @@
+streamlit
 google-generativeai
 pandas
-dotenv
 sqlalchemy
+python-dotenv
